@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*ngcKqY0gqRQsuTvVlPoVww.jpeg)
 <h1 align="center">Hi 👋, I'm Lebo</h1>
 <h3 align="center">A passionate frontend developer from Cape Town.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/6f/9c/876f9c5858d664d0efa0c476db65ef87.gif" />
+<img align="right" alt="Coding" width="300" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lebo-madikane&label=Profile%20views&color=0e75b6&style=flat" alt="lebo-madikane" /> </p>
